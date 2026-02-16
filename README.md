@@ -47,4 +47,7 @@ This query retrieves epic songs released after 1990 that are shorter than 5 minu
 
 Through this project, I strengthened my understanding of SQL data filtering, logical operators, and how to structure clean, readable queries.
 
+## 📸 Sample Query Output
+
+![Query Output](query-output.png)
 
